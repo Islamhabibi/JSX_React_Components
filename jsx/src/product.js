@@ -1,7 +1,7 @@
 
 export const productData =[{
     name:'Cocotte ovale',
-    price: 569,
+    price: 569 ,
     description:"Aussi polyvalent que notre cocotte ronde classique, ce modèle ovale est assez grand pour rôtir un gigot entier et suffisamment compact pour ajouter des garnitures supplémentaires dans le four. Quoi que vous serviez, cet ustensile indispensable pour tout cuisinier, vous aide à créer de délicieux plats aux multiples saveurs.",
     image:'https://delacuisineau20.com/165-large_default/cocotte-le-creuset-ovale-31cm.jpg'
 }

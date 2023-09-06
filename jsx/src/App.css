@@ -3,8 +3,18 @@ html, body {
   height: 100%;
   padding: 10px;
   margin: 0;
-  background-color: #f1f1f1;
+  background-color: #f1f1f1 !important;
   font-family: 'Roboto', sans-serif;
+}
+ 
+.item{
+  padding: 47px 50px;
+  height: 200px;
+  display: flex;
+}
+.item:nth-child(2) {
+  border-top:  1px solid #E1E8EE;
+  border-bottom:  1px solid #E1E8EE;
 }
 .App {
   text-align: center;
